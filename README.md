@@ -1,3 +1,4 @@
+<h1>notes-cli</h1>
 A cross platform note taking system
 <h1>Usage</h1>
 
